@@ -19,9 +19,10 @@ The project's full report, containing the research methods, datasets used, and r
 
 You can install the required packages using the following command:
 
-\`\`\`
+
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ## 🎯 Datasets
 
@@ -32,28 +33,28 @@ pip install -r requirements.txt
 
 1. Clone the repository:
 
-\`\`\`
+```bash
 git clone https://github.com/yourusername/YourRepositoryName.git
-\`\`\`
+```
 
 2. Install the requirements:
 
-\`\`\`
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 3. Create a folder named 'data' and install the required datasets there.
 
-\`\`\`
+```bash
 mkdir data
-\`\`\`
+```
 
 3. Run the script for the adaptation method you're interested in. For example, to run DANN:
 
-\`\`\`
+```bash
 cd src
 python dann.py
-\`\`\`
+```
 
 4. The output results will be displayed on the console and can be further analyzed as per your requirements.
 
